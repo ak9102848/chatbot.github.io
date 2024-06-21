@@ -1,0 +1,10 @@
+2024-06-21 10:52:35.314757 - You: hi
+2024-06-21 10:52:35.314757 - Bot: Hey!
+2024-06-21 10:52:39.316060 - You: ghcfg
+2024-06-21 10:52:39.316060 - Bot: I don't understand that. Can you please rephrase?
+2024-06-21 10:54:27.135405 - You: hi
+2024-06-21 10:54:27.135405 - Bot: Hi there!
+2024-06-21 10:54:32.179950 - You: hello
+2024-06-21 10:54:32.179950 - Bot: Hey!
+2024-06-21 10:54:41.743196 - You: vishal here
+2024-06-21 10:54:41.743196 - Bot: I don't understand that. Can you please rephrase?
